@@ -1,1 +1,1 @@
-novi red
+red promjenjen u grani "druga-verzija"

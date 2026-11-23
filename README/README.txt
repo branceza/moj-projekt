@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-nesto novo
-=======
-novi red
->>>>>>> novi-uvod
+Ovo je promjena na grani "main" test konflikta

@@ -1,2 +1,6 @@
-Ovo je promjena na grani "main" test konflikta
-novi red
+
+red promjenjen u grani "druga-verzija"
+nova izmjena
+
+
+
